@@ -1,0 +1,17 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "Building RESTFUL API using NodeJS ExpressJS MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Abhijeet Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6"
+  }
+}
